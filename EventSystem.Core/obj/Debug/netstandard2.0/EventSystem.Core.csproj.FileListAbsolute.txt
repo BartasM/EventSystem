@@ -1,0 +1,8 @@
+E:\github\EventSystem\EventSystem.Core\bin\Debug\netstandard2.0\EventSystem.Core.deps.json
+E:\github\EventSystem\EventSystem.Core\bin\Debug\netstandard2.0\EventSystem.Core.dll
+E:\github\EventSystem\EventSystem.Core\bin\Debug\netstandard2.0\EventSystem.Core.pdb
+E:\github\EventSystem\EventSystem.Core\obj\Debug\netstandard2.0\EventSystem.Core.AssemblyInfoInputs.cache
+E:\github\EventSystem\EventSystem.Core\obj\Debug\netstandard2.0\EventSystem.Core.AssemblyInfo.cs
+E:\github\EventSystem\EventSystem.Core\obj\Debug\netstandard2.0\EventSystem.Core.dll
+E:\github\EventSystem\EventSystem.Core\obj\Debug\netstandard2.0\EventSystem.Core.pdb
+E:\github\EventSystem\EventSystem.Core\obj\Debug\netstandard2.0\EventSystem.Core.csprojAssemblyReference.cache

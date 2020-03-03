@@ -1,0 +1,11 @@
+E:\github\EventSystem\EventSystem.Infrastructure\bin\Debug\netstandard2.0\EventSystem.infrastructure.deps.json
+E:\github\EventSystem\EventSystem.Infrastructure\bin\Debug\netstandard2.0\EventSystem.infrastructure.dll
+E:\github\EventSystem\EventSystem.Infrastructure\bin\Debug\netstandard2.0\EventSystem.infrastructure.pdb
+E:\github\EventSystem\EventSystem.Infrastructure\obj\Debug\netstandard2.0\EventSystem.infrastructure.csprojAssemblyReference.cache
+E:\github\EventSystem\EventSystem.Infrastructure\obj\Debug\netstandard2.0\EventSystem.infrastructure.AssemblyInfoInputs.cache
+E:\github\EventSystem\EventSystem.Infrastructure\obj\Debug\netstandard2.0\EventSystem.infrastructure.AssemblyInfo.cs
+E:\github\EventSystem\EventSystem.Infrastructure\obj\Debug\netstandard2.0\EventSystem.infrastructure.dll
+E:\github\EventSystem\EventSystem.Infrastructure\obj\Debug\netstandard2.0\EventSystem.infrastructure.pdb
+E:\github\EventSystem\EventSystem.Infrastructure\bin\Debug\netstandard2.0\EventSystem.Core.dll
+E:\github\EventSystem\EventSystem.Infrastructure\bin\Debug\netstandard2.0\EventSystem.Core.pdb
+E:\github\EventSystem\EventSystem.Infrastructure\obj\Debug\netstandard2.0\EventSystem.infrastructure.csproj.CopyComplete
